@@ -1,0 +1,381 @@
+EPUB Extraction Summary
+======================
+Source file: ../Brandon Sanderson - (Stormlight Archive 01) - The Way of Kings (retail).epub
+Total chapters extracted: 75
+Output directory: /Users/evanthomas/github.com/ethomas2/book-companion/backend/extracted_chapters
+
+Chapter 1:
+  Filename: chapter_001.txt
+  Length: 7430 characters
+  Preview: PRELUDE TO THE STORMLIGHT ARCHIVE Kalak rounded a rocky stone ridge and stumbled to a stop before the body of a dying thunderclast. The enormous stone beast lay on its side, riblike protrusions from i...
+
+Chapter 2:
+  Filename: chapter_002.txt
+  Length: 35798 characters
+  Preview: “The love of men is a frigid thing, a mountain stream only three steps from the ice. We are his. Oh Stormfather…we are his. It is but a thousand days, and the Everstorm comes.” —Collected on the first...
+
+Chapter 3:
+  Filename: chapter_003.txt
+  Length: 26380 characters
+  Preview: “You’ve killed me. Bastards, you’ve killed me! While the sun is still hot, I die!” —Collected on the fifth day of the week Chach of the month Betab of the year 1171, ten seconds before death. Subject ...
+
+Chapter 4:
+  Filename: chapter_004.txt
+  Length: 28575 characters
+  Preview: “Ten orders. We were loved, once. Why have you forsaken us, Almighty! Shard of my soul, where have you gone?” —Collected on the second day of Kakash, year 1171, five seconds before death. Subject was ...
+
+Chapter 5:
+  Filename: chapter_005.txt
+  Length: 30816 characters
+  Preview: “A man stood on a cliffside and watched his homeland fall into dust. The waters surged beneath, so far beneath. And he heard a child crying. They were his own tears.” —Collected on the 4th of Tanates,...
+
+Chapter 6:
+  Filename: chapter_006.txt
+  Length: 23765 characters
+  Preview: “I’m dying, aren’t I? Healer, why do you take my blood? Who is that beside you, with his head of lines? I can see a distant sun, dark and cold, shining in a black sky.” —Collected on the 3rd of Jesnan...
+
+Chapter 7:
+  Filename: chapter_007.txt
+  Length: 41406 characters
+  Preview: “I’m cold. Mother, I’m cold. Mother? Why can I still hear the rain? Will it stop?” —Collected on Vevishes, 1172, 32 seconds pre-death. Subject was a lighteyed female child, approximately six years old...
+
+Chapter 8:
+  Filename: chapter_008.txt
+  Length: 35733 characters
+  Preview: “They are aflame. They burn. They bring the darkness when they come, and so all you can see is that their skin is aflame. Burn, burn, burn….” —Collected on Palahishev, 1172, 21 seconds pre-death. Subj...
+
+Chapter 9:
+  Filename: chapter_009.txt
+  Length: 13230 characters
+  Preview: “Ten people, with Shardblades alight, standing before a wall of black and white and red.” —Collected: Jesachev, 1173, 12 seconds pre-death. Subject: one of our own ardents, overheard during his last m...
+
+Chapter 10:
+  Filename: chapter_010.txt
+  Length: 13087 characters
+  Preview: NINE YEARS AGO Kal stumbled into the surgery room, the open door letting in bright white sunlight. At ten years old, he was already showing signs that he would be tall and lanky. He’d always preferred...
+
+Chapter 11:
+  Filename: chapter_011.txt
+  Length: 18043 characters
+  Preview: “Three of sixteen ruled, but now the Broken One reigns.” —Collected: Chachanan, 1173, 84 seconds pre-death. Subject: a cutpurse with the wasting sickness, of partial Iriali descent. The highstorm even...
+
+Chapter 12:
+  Filename: chapter_012.txt
+  Length: 11420 characters
+  Preview: Ishikk splashed toward the meeting with the strange foreigners, whistling softly to himself, his pole with buckets on each end resting on his shoulders. He wore lake sandals on his submerged feet and ...
+
+Chapter 13:
+  Filename: chapter_013.txt
+  Length: 7429 characters
+  Preview: Nan Balat liked killing things. Not people. Never people. But animals, those he could kill. Particularly the little ones. He wasn’t sure why it made him feel better; it simply did. He sat on the porch...
+
+Chapter 14:
+  Filename: chapter_014.txt
+  Length: 11359 characters
+  Preview: Szeth-son-son-Vallano, Truthless of Shinovar, sat on the wooden tavern floor, lavis beer slowly soaking through his brown trousers. Grimy, worn, and fraying, his clothing was far different from the si...
+
+Chapter 15:
+  Filename: chapter_015.txt
+  Length: 44469 characters
+  Preview: Old friend, I hope this missive finds you well. Though, as you are now essentially immortal, I would guess that wellness on your part is something of a given. “Today,” King Elhokar announced, riding b...
+
+Chapter 16:
+  Filename: chapter_016.txt
+  Length: 19937 characters
+  Preview: I realize that you are probably still angry. That is pleasant to know. Much as your perpetual health, I have come to rely upon your dissatisfaction with me. It is one of the cosmere’s great constants,...
+
+Chapter 17:
+  Filename: chapter_017.txt
+  Length: 21914 characters
+  Preview: Let me first assure you that the element is quite safe. I have found a good home for it. I protect its safety like I protect my own skin, you might say. The morning after his decision in the highstorm...
+
+Chapter 18:
+  Filename: chapter_018.txt
+  Length: 52527 characters
+  Preview: You do not agree with my quest. I understand that, so much as it is possible to understand someone with whom I disagree so completely. Four hours after the chasmfiend attack, Adolin was still overseei...
+
+Chapter 19:
+  Filename: chapter_019.txt
+  Length: 31117 characters
+  Preview: SEVEN AND A HALF YEARS AGO “He wants to send me to Kharbranth,” Kal said, perched atop his rock. “To train to become a surgeon.” “What, really?” Laral asked, as she walked across the edge of the rock ...
+
+Chapter 20:
+  Filename: chapter_020.txt
+  Length: 4165 characters
+  Preview: SEVEN YEARS AGO “I can save her,” Kal said, pulling off his shirt. The child was only five. She’d fallen far. “I can save her.” He was mumbling. A crowd had gathered. It had been two months since Brig...
+
+Chapter 21:
+  Filename: chapter_021.txt
+  Length: 24730 characters
+  Preview: One need only look at the aftermath of his brief visit to Sel to see proof of what I say. Kaladin didn’t want to open his eyes. If he opened his eyes, he’d be awake. And if he were awake, that pain—th...
+
+Chapter 22:
+  Filename: chapter_022.txt
+  Length: 32792 characters
+  Preview: In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rays...
+
+Chapter 23:
+  Filename: chapter_023.txt
+  Length: 30715 characters
+  Preview: You have accused me of arrogance in my quest. You have accused me of perpetuating my grudge against Rayse and Bavadin. Both accusations are true. Kaladin stood up in the wagon bed, scanning the landsc...
+
+Chapter 24:
+  Filename: chapter_024.txt
+  Length: 19948 characters
+  Preview: Neither point makes the things I have written to you here untrue. The king’s Gallery of Maps balanced beauty and function. The expansive domed structure of Soulcast stone had smooth sides that melded ...
+
+Chapter 25:
+  Filename: chapter_025.txt
+  Length: 18577 characters
+  Preview: SEVEN YEARS AGO “It ain’t right, what they do,” the woman’s voice said. “You ain’t supposed to cut into folks, peering in to see what the Almighty placed hidden for good reason.” Kal froze, standing i...
+
+Chapter 26:
+  Filename: chapter_026.txt
+  Length: 38293 characters
+  Preview: I am being chased. Your friends of the Seventeenth Shard, I suspect. I believe they’re still lost, following a false trail I left for them. They’ll be happier that way. I doubt they have any inkling w...
+
+Chapter 27:
+  Filename: chapter_027.txt
+  Length: 11919 characters
+  Preview: Axies the Collector groaned, lying on his back, skull pounding with a headache. He opened his eyes and looked down the length of his body. He was naked. Blight it all, he thought. Well, best to check ...
+
+Chapter 28:
+  Filename: chapter_028.txt
+  Length: 19967 characters
+  Preview: Szeth-son-son-Vallano, Truthless of Shinovar, crouched on a high stone ledge at the side of the gambling den. The ledge was meant for holding a lantern; both his legs and the shelf were hidden by his ...
+
+Chapter 29:
+  Filename: chapter_029.txt
+  Length: 38375 characters
+  Preview: “The ones of ash and fire, who killed like a swarm, relentless before the Heralds.” —Noted in Masly, page 337. Corroborated by Coldwin and Hasavah. It sounds like you’re getting into Jasnah’s good gra...
+
+Chapter 30:
+  Filename: chapter_030.txt
+  Length: 20936 characters
+  Preview: “They were suddenly dangerous. Like a calm day that became a tempest.” —This fragment is the origin of a Thaylen proverb that was eventually reworked into a more common derivation. I believe it may re...
+
+Chapter 31:
+  Filename: chapter_031.txt
+  Length: 11206 characters
+  Preview: SIX YEARS AGO “Don’t make the same mistake I did, son.” Kal looked up from his folio. His father sat on the other side of the operating room, one hand to his head, half-empty cup of wine in his other....
+
+Chapter 32:
+  Filename: chapter_032.txt
+  Length: 27816 characters
+  Preview: “They lived high atop a place no man could reach, but all could visit. The tower city itself, crafted by the hands of no man.” —Though The Song of the Last Summer is a fanciful tale of romance from th...
+
+Chapter 33:
+  Filename: chapter_033.txt
+  Length: 33494 characters
+  Preview: “They changed, even as we fought them. Like shadows they were, that can transform as the flame dances. Never underestimate them because of what you first see.” —Purports to be a scrap collected from T...
+
+Chapter 34:
+  Filename: chapter_034.txt
+  Length: 11408 characters
+  Preview: “I walked from Abamabar to Urithiru.” —This quote from the Eighth Parable of The Way of Kings seems to contradict Varala and Sinbian, who both claim the city was inaccessible by foot. Perhaps there wa...
+
+Chapter 35:
+  Filename: chapter_035.txt
+  Length: 11063 characters
+  Preview: “Though many wished Urithiru to be built in Alethela, it was obvious that it could not be. And so it was that we asked for it to be placed westward, in the place nearest to Honor.” —Perhaps the oldest...
+
+Chapter 36:
+  Filename: chapter_036.txt
+  Length: 32458 characters
+  Preview: “Taking the Dawnshard, known to bind any creature voidish or mortal, he crawled up the steps crafted for Heralds, ten strides tall apiece, toward the grand temple above.” —From The Poem of Ista. I hav...
+
+Chapter 37:
+  Filename: chapter_037.txt
+  Length: 32176 characters
+  Preview: FIVE AND A HALF YEARS AGO “Kaladin, look at this rock,” Tien said. “It changes colors when you look at it from different sides.” Kal looked away from the window, glancing at his brother. Now thirteen ...
+
+Chapter 38:
+  Filename: chapter_038.txt
+  Length: 10134 characters
+  Preview: “Born from the darkness, they bear its taint still, marked upon their bodies much as the fire marks their souls.” —I consider Gashashson-Navammis a trustworthy source, though I’m not certain about thi...
+
+Chapter 39:
+  Filename: chapter_039.txt
+  Length: 21719 characters
+  Preview: “Within a heartbeat, Alezarv was there, crossing a distance that would have taken more than four months to travel by foot.” —Another folktale, this one recorded in Among the Darkeyed, by Calinam. Page...
+
+Chapter 40:
+  Filename: chapter_040.txt
+  Length: 11949 characters
+  Preview: FIVE AND A HALF YEARS AGO Kaladin pushed past the shrieking Laral and stumbled into the surgery room. Even after years working with his father, the amount of blood in the room was shocking. It was as ...
+
+Chapter 41:
+  Filename: chapter_041.txt
+  Length: 31584 characters
+  Preview: “Like a highstorm, regular in their coming, yet always unexpected.” —The word Desolation is used twice in reference to their appearances. See pages 57, 59, and 64 of Tales by Hearthlight. “I’ve made m...
+
+Chapter 42:
+  Filename: chapter_042.txt
+  Length: 26233 characters
+  Preview: “They lived out in the wilds, always awaiting the Desolation—or sometimes, a foolish child who took no heed of the night’s darkness.” —A child’s tale, yes, but this quote from Shadows Remembered seems...
+
+Chapter 43:
+  Filename: chapter_043.txt
+  Length: 26974 characters
+  Preview: FIVE YEARS AGO Kaladin hated the Weeping. It marked the end of an old year and the coming of a new one, four solid weeks of rain in a ceaseless cascade of sullen drops. Never furious, never passionate...
+
+Chapter 44:
+  Filename: chapter_044.txt
+  Length: 45781 characters
+  Preview: “Yelignar, called Blightwind, was one that could speak like a man, though often his voice was accompanied by the wails of those he consumed.” —The Unmade were obviously fabrications of folklore. Curio...
+
+Chapter 45:
+  Filename: chapter_045.txt
+  Length: 40876 characters
+  Preview: “Though I was due for dinner in Veden City that night, I insisted upon visiting Kholinar to speak with Tivbet. The tariffs through Urithiru were growing quite unreasonable. By then, the so-called Radi...
+
+Chapter 46:
+  Filename: chapter_046.txt
+  Length: 28529 characters
+  Preview: ONE YEAR AGO Kaladin turned the rock over in his fingers, letting the facets of suspended quartz catch the light. He leaned against a large boulder, one foot pressed back against the stone, his spear ...
+
+Chapter 47:
+  Filename: chapter_047.txt
+  Length: 19530 characters
+  Preview: “They take away the light, wherever they lurk. Skin that is burned.” —Cormshen, page 104. Shallan sat quietly, propped up in a sterile, white-sheeted bed in one of Kharbranth’s many hospitals. Her arm...
+
+Chapter 48:
+  Filename: chapter_048.txt
+  Length: 7100 characters
+  Preview: “Flame and char. Skin so terrible. Eyes like pits of blackness.” —A quote from the Iviad probably needs no reference notation, but this comes from line 482, should I need to locate it quickly. Shallan...
+
+Chapter 49:
+  Filename: chapter_049.txt
+  Length: 10648 characters
+  Preview: ONE YEAR AGO Kaladin sat quietly in the waiting room of Amaram’s wooden warcenter. It was constructed of a dozen study sections that could be disconnected and pulled by chulls. Kaladin sat beside a wi...
+
+Chapter 50:
+  Filename: chapter_050.txt
+  Length: 7064 characters
+  Preview: Baxil hastened down the lavish palace corridor, clutching the bulky bag of tools. A sound like a footfall came from behind him and he jumped, spinning. He didn’t see anything. The corridor was empty, ...
+
+Chapter 51:
+  Filename: chapter_051.txt
+  Length: 16591 characters
+  Preview: Szeth-son-son-Vallano, Truthless of Shinovar, spun between the two guards as their eyes burned out. They slumped quietly to the floor. With three quick strokes, he slashed his Shardblade through the h...
+
+Chapter 52:
+  Filename: chapter_052.txt
+  Length: 39885 characters
+  Preview: “I’m standing over the body of a brother. I’m weeping. Is that his blood or mine? What have we done?” —Dated Vevanev, 1173, 107 seconds pre-death. Subject: an out-of-work Veden sailor. “Father,” Adoli...
+
+Chapter 53:
+  Filename: chapter_053.txt
+  Length: 15372 characters
+  Preview: “He must pick it up, the fallen title! The tower, the crown, and the spear!” —Dated Vevahach, 1173, 8 seconds pre-death. Subject: a prostitute. Back ground unknown. A razor-edged arrow snapped into th...
+
+Chapter 54:
+  Filename: chapter_054.txt
+  Length: 32388 characters
+  Preview: “The burdens of nine become mine. Why must I carry the madness of them all? Oh, Almighty, release me.” —Dated Palaheses, 1173, unknown seconds pre-death. Subject: a wealthy lighteyes. Sample collected...
+
+Chapter 55:
+  Filename: chapter_055.txt
+  Length: 33562 characters
+  Preview: “A woman sits and scratches out her own eyes. Daughter of kings and winds, the vandal.” —Dated Palahevan, 1173, 73 seconds pre-death. Subject: a beggar of some renown, known for his elegant songs. One...
+
+Chapter 56:
+  Filename: chapter_056.txt
+  Length: 27867 characters
+  Preview: “Light grows so distant. The storm never stops. I am broken, and all around me have died. I weep for the end of all things. He has won. Oh, he has beaten us.” —Dated Palahakev, 1173, 16 seconds pre-de...
+
+Chapter 57:
+  Filename: chapter_057.txt
+  Length: 50736 characters
+  Preview: “I hold the suckling child in my hands, a knife at his throat, and know that all who live wish me to let the blade slip. Spill its blood upon the ground, over my hands, and with it gain us further bre...
+
+Chapter 58:
+  Filename: chapter_058.txt
+  Length: 42845 characters
+  Preview: “ReShephir, the Midnight Mother, giving birth to abominations with her essence so dark, so terrible, so consuming. She is here! She watches me die!” —Dated Shashabev, 1173, 8 seconds pre-death. Subjec...
+
+Chapter 59:
+  Filename: chapter_059.txt
+  Length: 37070 characters
+  Preview: “Above the final void I hang, friends behind, friends before. The feast I must drink clings to their faces, and the words I must speak spark in my mind. The old oaths will be spoken anew.” —Dated Beta...
+
+Chapter 60:
+  Filename: chapter_060.txt
+  Length: 23860 characters
+  Preview: “The death is my life, the strength becomes my weakness, the journey has ended.” —Dated Betabanes, 1173, 95 seconds pre-death. Subject: a scholar of some minor renown. Sample collected secondhand. Con...
+
+Chapter 61:
+  Filename: chapter_061.txt
+  Length: 17754 characters
+  Preview: “In the storm I awaken, falling, spinning, grieving.” —Dated Kakanev, 1173, 13 seconds pre-death. Subject was a city guardsman. “How can you be so sure it was him, Dalinar?” Navani asked softly. Dalin...
+
+Chapter 62:
+  Filename: chapter_062.txt
+  Length: 29547 characters
+  Preview: “The darkness becomes a palace. Let it rule! Let it rule!” —Kakevah 1173, 22 seconds pre-death. A darkeyed Selay man of unknown profession. “You think one of those will save us?” Moash asked, scowling...
+
+Chapter 63:
+  Filename: chapter_063.txt
+  Length: 17925 characters
+  Preview: “They come from the pit, two dead men, a heart in their hands, and I know that I have seen true glory.” —Kakashah 1173, 13 seconds pre-death. A rickshaw puller. “I couldn’t decide if you were interest...
+
+Chapter 64:
+  Filename: chapter_064.txt
+  Length: 23399 characters
+  Preview: “I see them. They are the rocks. They are the vengeful spirits. Eyes of red.” —Kakakes 1173, 8 seconds pre-death. A darkeyed young woman of fifteen. Subject was reportedly mentally unstable since chil...
+
+Chapter 65:
+  Filename: chapter_065.txt
+  Length: 14304 characters
+  Preview: “That chanting, that singing, those rasping voices.” —Kaktach 1173, 16 seconds pre-death. A middle-aged potter. Reported seeing strange dreams during highstorms during the last two years. Kaladin wear...
+
+Chapter 66:
+  Filename: chapter_066.txt
+  Length: 41871 characters
+  Preview: “Let me no longer hurt! Let me no longer weep! Daigonarthis! The Black Fisher holds my sorrow and consumes it!” —Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarit...
+
+Chapter 67:
+  Filename: chapter_067.txt
+  Length: 39358 characters
+  Preview: “They named it the Final Desolation, but they lied. Our gods lied. Oh, how they lied. The Everstorm comes. I hear its whispers, see its stormwall, know its heart.” —Tanatanes 1173, 8 seconds pre-death...
+
+Chapter 68:
+  Filename: chapter_068.txt
+  Length: 43866 characters
+  Preview: “All is withdrawn for me. I stand against the one who saved my life. I protect the one who killed my promises. I raise my hand. The storm responds.” —Tanatanev 1173, 18 seconds pre-death. A darkeyed m...
+
+Chapter 69:
+  Filename: chapter_069.txt
+  Length: 13408 characters
+  Preview: Shallan lay quietly in the bed of her little hospital room. She’d cried herself dry, then had actually retched into the bedpan, over what she had done. She felt miserable. She’d betrayed Jasnah. And J...
+
+Chapter 70:
+  Filename: chapter_070.txt
+  Length: 14617 characters
+  Preview: Szeth-son-son-Vallano, Truthless of Shinovar, walked with bowed back, carrying a sack of grain down off the ship and onto the docks of Kharbranth. The City of Bells smelled of a fresh ocean morning, p...
+
+Chapter 71:
+  Filename: chapter_071.txt
+  Length: 4698 characters
+  Preview: “Before I read,” Shallan said, “I need to understand something. You Soulcast my blood, didn’t you?” “To remove the poison,” Jasnah said. “Yes. It acted extremely quickly; as I said, it must have been ...
+
+Chapter 72:
+  Filename: chapter_072.txt
+  Length: 19203 characters
+  Preview: The chill spring weather might finally have slipped back into summer. It was still cool at night, but not uncomfortably so. Kaladin stood on Dalinar Kholin’s staging ground, looking eastward over the ...
+
+Chapter 73:
+  Filename: chapter_073.txt
+  Length: 5457 characters
+  Preview: Shallan rubbed her eyes. She’d read through Jasnah’s notes—at least the most important ones. Those alone had made a large stack. She still sat in the alcove, though they’d sent a parshman to get her a...
+
+Chapter 74:
+  Filename: chapter_074.txt
+  Length: 10724 characters
+  Preview: The highstorm winds began to blow against Dalinar’s complex, powerful enough to make rocks groan. Navani huddled close to Dalinar, holding to him. She smelled wonderful. It felt… humbling to know how ...
+
+Chapter 75:
+  Filename: chapter_075.txt
+  Length: 9060 characters
+  Preview: “Can you feel it?” Wit asked of the open night. “Something just changed. I believe that’s the sound the world makes when it pisses itself.” Three guards stood just inside the thick wooden city gates o...
+
