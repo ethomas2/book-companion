@@ -27,3 +27,4 @@ __pycache__
 *.epub
 *.pdf
 tasks.md
+vector_store_id.txt
